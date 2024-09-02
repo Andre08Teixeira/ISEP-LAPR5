@@ -1,0 +1,40 @@
+<app-nav-bar></app-nav-bar>
+<h1>Edit this specific delivery</h1>
+<div class="row">
+  <div class="column">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img  class=""src="https://img.freepik.com/vetores-premium/ilustracao-em-vetor-de-contorno-desenhado-a-mao-do-correio-dirigindo-caminhao-de-entrega_544745-95.jpg?w=360" 
+      alt="Delivery" style="width: 550px;height:500.00px;">
+    </div>
+<div class = "column" *ngIf="delivery" style="position: abosulte;top: 200px;">
+    <h2>Details of the delivery</h2>
+    <div>Delivery id: {{delivery.id}}</div>
+    <p></p>
+    <div class="column">
+      
+      <label for="hero-weight">Delivery day: </label>
+      <input id="hero-weight" [(ngModel)]="delivery.dia" placeholder="day">
+      <p></p>
+      <label for="hero-weight">Delivery month: </label>
+      <input id="hero-weight" [(ngModel)]="delivery.mes" placeholder="month">
+      <p></p>
+      <label for="hero-weight">Delivery year: </label>
+      <input id="hero-weight" [(ngModel)]="delivery.ano" placeholder="year">
+      <p></p>
+      <label for="hero-weight">Delivery weight: </label>
+      <input id="hero-weight" [(ngModel)]="delivery.weight" placeholder="weight">
+      <p></p>
+      <label for="hero-weight">Delivery warehouse: </label>
+      <input id="hero-weight" [(ngModel)]="delivery.deliverywarehouseID" placeholder="warehouse to deliver">
+      <p></p>
+      <label for="hero-weight">Time to put in the truck: </label>
+      <input id="hero-weight" [(ngModel)]="delivery.put_truck_time" placeholder="put_time">
+      <p></p>
+      <label for="hero-weight">Time to remove from truck: </label>
+      <input id="hero-weight" [(ngModel)]="delivery.remove_Truck_time" placeholder="remove_time">
+
+      <button type="button" (click)="goBack()">go back</button>
+      <button type="button" >Submit changes</button>
+    </div>
+  </div>
+  

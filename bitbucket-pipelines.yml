@@ -1,0 +1,20 @@
+# Sample build file
+# @author Suren Konathala
+# -----
+image: node:16
+
+pipelines:
+  default:
+    - step:
+        caches:
+          - node
+        script: # Modify the commands below to build your repository.
+          - echo "$(ls -la)"
+          - cd ElectricGo
+          - npm install --force
+          - npm install -g @angular/cli@15.0.1
+          - ng build --configuration production
+          - echo "$(ls -la asist/)"
+          - apt-get update
+          - apt-get install sshpass -y
+          - time sshpass -p TOhgTitbvYjE scp -P 10189 -r src/ root@vsgate-ssh.dei.isep.ipp.pt:/root/asist/lapr5_41/ElectricGo

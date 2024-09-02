@@ -1,0 +1,40 @@
+<app-nav-bar></app-nav-bar>
+<div class="row">
+  <div class="column">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img class=""
+      src="https://static.vecteezy.com/ti/vetor-gratis/p1/2270843-route-location-icon-two-map-pin-sign-and-road-or-path-start-and-end-journey-symbol-black-color-vector-illustration-isolated-on-white-background-vetor.jpg"
+      alt="Course" style="width: 550px;height:500.00px;">
+  </div>
+
+  <div class="column">
+    <form class="add-form" class="container">
+      <label for="new-hero">Create a course: </label>
+      <input id2="new-hero" #courseWarehouseID1 placeholder="WarehouseID1" />
+      <p></p>
+
+      <input id3="new-hero" #courseWarehouseID2 placeholder="WarehouseID2" />
+      <p></p>
+
+      <input id4="new-hero" #courseDistance placeholder="Distance" />
+      <p></p>
+
+      <input id5="new-hero" #courseDuration placeholder="Duration" />
+      <p></p>
+
+      <input id6="new-hero" #courseEnergyNeeded placeholder="Energy Needed" />
+
+      <!-- (click) passes input value to add() and then clears the input -->
+      <button type="button" class="add-button" (click)="add(courseWarehouseID1.value,courseWarehouseID2.value,courseDistance.value,courseDuration.value, courseEnergyNeeded.value);
+
+    courseWarehouseID1.value='';
+    courseWarehouseID2.value='';
+    courseDistance.value='';
+    courseDuration.value='';
+    courseEnergyNeeded.value=''">
+        Add course
+      </button>
+      <button type="button" (click)="goBack()">go back</button>
+    </form>
+  </div>

@@ -1,0 +1,34 @@
+
+  <div class="row">
+    <div class="column">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <img  class=""src="https://media.istockphoto.com/id/1304698684/vector/warehouse-exterior-storage-building-front-view-graphic-black-white-isolated-sketch.jpg?s=612x612&w=0&k=20&c=oct9VFyKhOgHoMczk-pF-kTog9uDvSidiQnkXQAPtkE=" 
+        alt="Warehouse" style="width: 350px;height:420.00px;">
+      </div>
+      
+      <div class="column">
+        <form class="" class="add-form" class="container" >
+
+            <input class="field"type="text" name="id" id="id" [(ngModel)]="id"  placeholder="Id"/>
+            <p></p>
+            <input type="text" name="designation" id="designation"  [(ngModel)]="designation" placeholder="Designation"/>
+            <p></p>
+            <input type="text" name="street" id="  street" [(ngModel)]="street "placeholder="Street"/>
+            <p></p>
+            <input type="string" name="codigoPostal" id="codigoPostal"  [(ngModel)]="codigoPostal" placeholder="Postal Code"/>
+            <p></p>
+            <input type="text" name="country" id="country"  [(ngModel)]="country" placeholder="Country"/>
+            <p></p>
+            <input type="number" name="longitude" id=" longitude" [(ngModel)]="longitude" placeholder="Longitude"/>
+            <p></p>
+            <input type="number" name="latitude" id=" latitude" [(ngModel)]="latitude" placeholder="Latitude"/>
+            <p></p>
+            <input type="number" name="altitude" id=" altitude" [(ngModel)]="altitude" placeholder="Altitude"/>
+            <p></p>
+            <app-button color= "black" text="Create Warehouse" (btnClick)="onSubmit()"></app-button>
+            <app-button color= "black" text="Go back" (btnClick)="goBack()"></app-button>
+    
+        </form>
+      </div>
+
+    

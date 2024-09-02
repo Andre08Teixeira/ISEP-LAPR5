@@ -1,0 +1,31 @@
+<app-nav-bar></app-nav-bar>
+  <div class="row">
+    <div class="column">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <br><br>  
+      <img  class=""src="https://cdn-icons-png.flaticon.com/512/752/752759.png" 
+        alt="Delivery" style="position: relative; left: 100px;width: 550px;height:500.00px;">
+      </div>
+  
+      
+      <div class="column">
+        
+        <form class="add-form" class="container">
+            <div>
+                <h2>Inhibit Truck</h2>
+                <div>Choose the truck to inhibit:</div>
+                <div> 
+                    <select class="form-control" [(ngModel)]="selectedValue" #truckRegistration>
+                    <option *ngFor="let truck of uninhibitedTrucks" value="{{truck.registration}}" #truckRegistration
+                    >{{truck.registration}}</option>
+                    </select>
+                </div>
+          <p></p>
+          <button type="button" class="update-button" (click)="selectedValue = '';update(truckRegistration.value);">
+            Inhibit</button>
+        <button type="button" (click)="goBack()">Return</button>
+      
+    </div>
+</form>
+  </div>
+  

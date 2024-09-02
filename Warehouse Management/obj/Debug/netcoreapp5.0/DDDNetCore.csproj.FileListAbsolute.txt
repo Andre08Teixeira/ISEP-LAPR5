@@ -1,0 +1,396 @@
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\DDDNetCore.exe
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\DDDNetCore.deps.json
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.json
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.dev.json
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.AssemblyReference.cache
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfoInputs.cache
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfo.cs
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CoreCompileInputs.cache
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CopyComplete
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\refint\DDDNetCore.dll
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.genruntimeconfig.cache
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\ref\DDDNetCore.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Microsoft.OpenApi.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\35193\Projeto Base\dddnetcore\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\35193\Projeto Base\dddnetcore\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.exe
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.deps.json
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.json
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.dev.json
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.OpenApi.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.AssemblyReference.cache
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfoInputs.cache
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfo.cs
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CoreCompileInputs.cache
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CopyComplete
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\refint\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.genruntimeconfig.cache
+C:\Users\35193\Projeto\lapr5_41-1\Gestao de armazens\obj\Debug\netcoreapp5.0\ref\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.exe
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.deps.json
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.json
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.dev.json
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Microsoft.OpenApi.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.AssemblyReference.cache
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfoInputs.cache
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfo.cs
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CoreCompileInputs.cache
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CopyComplete
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\refint\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\DDDNetCore.genruntimeconfig.cache
+C:\Users\35193\Projeto\lapr5_41\Gestao de armazens\obj\Debug\netcoreapp5.0\ref\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.exe
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.deps.json
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.json
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.dev.json
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.OpenApi.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.AssemblyReference.cache
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfoInputs.cache
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfo.cs
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CoreCompileInputs.cache
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CopyComplete
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\refint\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.genruntimeconfig.cache
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\ref\DDDNetCore.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.exe
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.deps.json
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.json
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.dev.json
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.OpenApi.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.AssemblyReference.cache
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfoInputs.cache
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfo.cs
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CopyComplete
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\refint\DDDNetCore.dll
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.genruntimeconfig.cache
+C:\Users\Legion\OneDrive - Instituto Superior de Engenharia do Porto\Documents\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\ref\DDDNetCore.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Humanizer.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Azure.Core.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Azure.Identity.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.SqlServer.Server.dll
+C:\Users\35193\Projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Memory.Data.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.exe
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.deps.json
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.json
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.dev.json
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Azure.Core.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Azure.Identity.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Humanizer.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.OpenApi.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.SqlServer.Server.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Memory.Data.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\refint\DDDNetCore.dll
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\fac\3º ano\1ºsemestre\Project\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\ref\DDDNetCore.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.exe
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.deps.json
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.json
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.dev.json
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Azure.Core.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Azure.Identity.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Humanizer.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.OpenApi.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.SqlServer.Server.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Memory.Data.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.AssemblyReference.cache
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfoInputs.cache
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfo.cs
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CopyComplete
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\refint\DDDNetCore.dll
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.genruntimeconfig.cache
+C:\Users\joaop\Ambiente de Trabalho\projeto\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\ref\DDDNetCore.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\appsettings.json
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.exe
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.deps.json
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.json
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.runtimeconfig.dev.json
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Azure.Core.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Azure.Identity.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Humanizer.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.OpenApi.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Microsoft.SqlServer.Server.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Memory.Data.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\lapr5_41\Warehouse Management\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.AssemblyReference.cache
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfoInputs.cache
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.AssemblyInfo.cs
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CoreCompileInputs.cache
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.RazorTargetAssemblyInfo.cache
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.csproj.CopyComplete
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.dll
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\refint\DDDNetCore.dll
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.pdb
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\DDDNetCore.genruntimeconfig.cache
+C:\lapr5_41\Warehouse Management\obj\Debug\netcoreapp5.0\ref\DDDNetCore.dll

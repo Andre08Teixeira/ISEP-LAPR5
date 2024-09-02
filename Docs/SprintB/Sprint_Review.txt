@@ -1,0 +1,72 @@
+										Sprint Review - Sprint B
+
+Lapr5 Grupo 41 Turma 3DG
+ 
+Data: 4/12/2022
+
+--------------------------------------------------------------------------------------------------------------------
+->O que não foi feito:
+
+-Relatório completo de ALGAV
+
+-Alguns testes e2e
+
+-2 USs relativas ao Planeamento
+
+--------------------------------------------------------------------------------------------------------------------
+->Pontos positivos:
+
+-SPA funcional
+
+-Cumprimento de quase todas as USs
+
+-Maior organização e uso de ferramentas como o Jira
+
+-Uso da metodologia Scrum
+
+--------------------------------------------------------------------------------------------------------------------
+->Pontos negativos:
+
+
+-Falta de Designs
+
+-Comunicação
+
+-Dedicação
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+->Soluções:
+
+-Mais compreensão e entre-ajuda.
+
+-Dividir melhor as USs em UCs no Jira
+
+-Analisar mais e melhor os problemas antes de tentar resolver. 
+
+-Implementação de regras e procedimentos obrigatórios
+
+--------------------------------------------------------------------------------------------------------------------
+->Comentários:
+
+André Teixeira: Deviamos ter começado mais cedo para melhor resultado.
+
+Ivo Oliveira: Faltou entre-ajuda e dedicação, assim como melhor definição de prioridades conforme a situação
+
+João Miranda: Embora tenhamos melhorado ainda se pode melhorar e ser mais eficiente e eficaz na realização das tarefas.
+ 
+Mário Cardoso: Sprint com potencial para ser bom mas devido a problemas no final, o resultado final acabou por ser medíocre. Não houve o mesmo empenho entre todos os elementos da equipa e houve falta de compreensão e comunicação.
+
+Miguel Macedo: Melhor sprint que o passado mas ainda é possível melhorar tanto a nivel organizacional como de implementação. Não houve o mesmo esforço por parte de todos os elementos.
+
+--------------------------------------------------------------------------------------------------------------------
+Conclusão: Após discussão, chegamos à conclusão que, a nível organizacional melhoramos e a dedicação também foi superior ao sprint passado.
+No entanto, existiu muito inconsistência no trabalho e acabamos por diminuir o ritmo e ter outra vez alguns dos problemas do sprint passado.  
+
+1190679 – Ivo Oliveira  
+1190384 – André Teixeira
+1201199 – Miguel Macedo  
+1201496 – Mário Cardoso
+1201197 - João Figueiredo  
+

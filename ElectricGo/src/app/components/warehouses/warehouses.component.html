@@ -1,0 +1,5 @@
+<app-nav-bar></app-nav-bar>
+<app-add-warehouse (onAddWarehouse)="addWarehouse($event)"></app-add-warehouse>
+<hr><br>
+<app-warehouse-item *ngFor="let warehouse of warehouses" [warehouse]="warehouse" ></app-warehouse-item>
+<app-warethreed></app-warethreed>

@@ -1,0 +1,108 @@
+Lapr5 grupo 41 turma 3DG
+Daily Meetings - Sprint B
+
+Daily Meeting #1
+
+Data:
+11/11/2022
+
+Membros presentes:
+Todos
+
+Resumo:
+
+Sprint Review
+Planeamento para o sprint
+
+---------------------------------------------------
+Daily Meeting #2
+
+Data:
+11/11/2022
+
+Membros presentes:
+Todos exceto André
+
+Resumo:
+
+Definition of done and ready and jira management
+
+---------------------------------------------------
+Daily Meeting #3
+
+Data:
+16/11/2022
+
+Membros presentes:
+Todos
+
+Resumo:
+
+Definition of done and ready and jira management
+
+---------------------------------------------------
+Daily Meeting #4
+
+Data:
+20/11/2022
+
+Membros presentes:
+Miguel, Mário, João
+
+Resumo:
+
+Update de como estavamos a evoluir, debate sobre mudança e reajuste de US's
+
+---------------------------------------------------
+Daily Meeting #5
+
+Data:
+27/11/2022
+
+Membros presentes:
+Miguel, Mário, João
+
+Resumo:
+
+Entre-ajuda para resolver problemas existentes em UCs de cada um
+
+ ---------------------------------------------------
+Daily Meeting #5
+
+Data:
+1/12/2022
+
+Membros presentes:
+Todos exceto João
+
+Resumo:
+
+Rever trabalho feito e trabalho em conjunto
+
+---------------------------------------------------
+Daily Meeting #6
+
+Data:
+3/12/2022
+
+Membros presentes:
+Todos
+
+Resumo:
+
+Reajuste de plano de trabalho para concluir a tempo o sprint
+
+---------------------------------------------------
+Daily Meeting #7
+
+Data:
+4/12/2022
+
+Membros presentes:
+Todos
+
+Resumo:
+
+Revisão, últimos detalhes e entrega de sprint
+
+---------------------------------------------------

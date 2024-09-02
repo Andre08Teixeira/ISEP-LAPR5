@@ -1,0 +1,21 @@
+<app-nav-bar></app-nav-bar>
+<h1><strong> Trucks</strong></h1>
+<br>
+<br>
+<br>
+<br>
+ <ul class="Trucks" style="position: relative; top:-80px">
+    <li *ngFor="let truck of trucks">
+      <div class="warehouse">
+        <p><strong>Truck Registration:</strong> {{truck.registration}}</p>
+        <p><strong>Truck Tare:</strong> {{truck.tare}}<p> 
+        <p><strong>Truck Maximum Weight:</strong> {{truck.maximum_weight}}</p>
+        <p><strong>Truck Battery Maximum Charge:</strong> {{truck.max_charge}}</p>
+        <p><strong>Truck Autonomy:</strong> {{truck.autonomy}}</p>
+        <p><strong>Truck Charge Time:</strong> {{truck.charge_time}}</p>
+        <p><strong>Truck Inactive:</strong> {{truck.is_deleted}}</p>
+      </div>
+    </li>
+  </ul>
+
+  <button type="button" (click)="goBack()">go back</button>

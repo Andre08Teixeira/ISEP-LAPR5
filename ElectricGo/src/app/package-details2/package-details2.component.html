@@ -1,0 +1,22 @@
+<app-nav-bar></app-nav-bar>
+<div *ngIf="package">
+  <h2>Details of Package</h2>
+  <div>Package id: {{package.id}}</div>
+  <div>
+    <label for="hero-weight">Package X: </label>
+    <input id="hero-weight" [(ngModel)]="package.x" placeholder="x">
+    <p></p>
+    <label for="hero-weight">Package Y: </label>
+    <input id="hero-weight" [(ngModel)]="package.y" placeholder="y">
+    <p></p>
+    <label for="hero-weight">Package Z: </label>
+    <input id="hero-weight" [(ngModel)]="package.z" placeholder="z">
+    <p></p>
+    <label for="hero-weight">Tempo de Carga: </label>
+    <input id="hero-weight" [(ngModel)]="package.tCarga" placeholder="tCarga">
+    <p></p>
+    <label for="hero-weight">Tempo de Descarga: </label>
+    <input id="hero-weight" [(ngModel)]="package.tDescarga" placeholder="tDescarga">
+  </div>
+</div>
+<button type="button" (click)="goBack()">go back</button>

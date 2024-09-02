@@ -1,0 +1,45 @@
+<app-nav-bar></app-nav-bar>
+<div class="row">
+  <div class="column">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <br><br>
+    <img  class=""src="https://www.kindpng.com/picc/m/177-1774262_strategic-design-planning-planning-icon-black-png-transparent.png" 
+      alt="Delivery" style="position: relative; left: 100px;width: 550px;height:500.00px;">
+    </div>
+
+    
+    <div class="column">
+      
+      <form class="add-form" class="container">
+        <label for="new-hero">Create a planning for a day </label>
+      
+      <br>
+
+      <input type="date" #firstDate placeholder="warehouse"/>
+      <div > 
+          <select class="form-control" #deliveryWarehouse (change)="selectedChangeHandler2($event)">
+          <option  #HeuristicaTempo>Heuristica Tempo</option>
+          <option  #HeuristicaMassa>Heuristica Massa</option>
+          <option  #AlgoritmoGenetico>Algoritmo Genetico</option>
+        </select>
+        </div>
+        <p></p>
+        <div > 
+          <select class="form-control" #deliveryTruck> 
+          <option *ngFor="let truck of trucks" value="{{truck.registration}}" #deliveryWarehouse
+          >{{truck.registration}}</option>
+        </select>
+        </div>
+        <div class="warehouse" *ngIf="filtro==='Algoritmo Genetico'">
+          <input id="new-hero" #warehouse1 placeholder="Number of generations"/>
+          <input id="new-hero" #warehouse2 placeholder="Population Dimension"/>
+          <input id="new-hero" #warehouse3 placeholder="Cross-over probability"/>
+          <input id="new-hero" #warehouse4 placeholder="Mutation probability"/>
+          <button type="button" (click)="converterData(firstDate.value,deliveryWarehouse.value,deliveryTruck.value,warehouse1.value,warehouse2.value,warehouse3.value,warehouse4.value)">Apply filter</button>
+        </div>
+        <p></p>
+      <button type="button" *ngIf="filtro!='Algoritmo Genetico'"(click)="converterData(firstDate.value,deliveryWarehouse.value,deliveryTruck.value,null,null,null,null)">Apply filter</button>
+      <button type="button" (click)="goBack()">Return</button>
+    </form>
+  </div>
+</div>

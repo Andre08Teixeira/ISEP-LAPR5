@@ -1,0 +1,27 @@
+h1 {
+    margin-bottom: 0;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    background-color: #c14a09;
+    padding: 10px; 
+  }
+  
+  nav a {
+    color: #F1F1F1;
+    text-decoration: none; 
+    padding: 1rem;
+    margin-right: 40px; 
+    border-radius: 4px; 
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; 
+  }
+  
+  nav a:hover {
+    background-color: #e66108;
+    color: #F1F1F1; 
+  }
+  
+  nav a:active {
+    background-color: #8E24AA;
+  }

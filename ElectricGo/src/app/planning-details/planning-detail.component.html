@@ -1,0 +1,15 @@
+<div *ngIf="planning">
+    <h2>Details of the planning</h2>
+    <div>Planning data: {{planning.data}}</div>
+    <p></p>
+
+    <div>
+      <label for="hero-weight">Planning truckID: </label>
+      <input id="hero-weight" [(ngModel)]="planning.armazens" placeholder="truckID">
+      <p></p>
+      <label for="hero-weight">Planning data: </label>
+      <input id="hero-weight" [(ngModel)]="planning.data" placeholder="data">
+      <p></p>
+    </div>
+  </div>
+  <button type="button" (click)="goBack()">go back</button>

@@ -1,0 +1,49 @@
+<app-nav-bar></app-nav-bar>
+<div class="row">
+    <div class="column">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <img  class=""src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Breezeicons-actions-22-im-user.svg/2048px-Breezeicons-actions-22-im-user.svg.png" 
+        alt="User" style="width: 450px;height:400.00px;">
+      </div>
+  
+      
+  <div class="column">
+    <form class="add-form" class="container">
+      <label for="new-hero">Create an user: </label>
+      <input id2="new-hero" #firstName placeholder="First name"/>
+      <p></p>
+      <input id2="new-hero" #lastName placeholder="Last name"/>
+      <p></p>
+      <input id2="new-hero" #email placeholder="email"/>
+      <p></p>
+      <input id3="new-hero" #phoneNumeber placeholder="Phone number"/>
+      <p></p>
+      <input type="password" id="myInput" #password placeholder="Password"/> <input type="checkbox" (click)="myFunction()">Show Password 
+      <p></p>
+    
+      <div > 
+        <select class="form-control" #role>
+        <option *ngFor="let role of roles" value="{{role.name}}" #role2
+        >{{role.name}}</option>
+      </select>
+      </div>
+      
+      
+    
+      <!-- (click) passes input value to add() and then clears the input -->
+      <button type="button" class="add-button" (click)="add(firstName.value,lastName.value,email.value,phoneNumeber.value,password.value,role.value);
+      
+      firstName.value='';
+      lastName.value='';
+      email.value='';
+      password.value='';
+      phoneNumeber.value='';"
+       >
+        Add user
+      </button>
+      <button type="button" (click)="goBack()">go back</button>
+    </form>
+    </div>
+  </div>
+  
+    

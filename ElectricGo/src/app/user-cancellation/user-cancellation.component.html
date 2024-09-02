@@ -1,0 +1,34 @@
+<app-nav-bar></app-nav-bar>
+<div class="row">
+      <div class="column">
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <br><br>  
+        <img  class=""src="https://img.freepik.com/free-icon/hacker_318-828193.jpg?w=2000" 
+          alt="Delivery" style="position: relative; left: 100px;width: 550px;height:500.00px;">
+        </div>
+    
+        
+        <div class="column">
+          
+          <form class="add-form" class="container">
+            <h2>Choose the account to cancel:</h2>
+            <div> 
+                <select class="form-control" [(ngModel)]="selectedValue" #userEmail>
+                <option *ngFor="let user of validUsers" value="{{user.email}}" #userEmail
+                >Name: {{user.firstName}} {{user.lastName}}
+                Email: {{user.email}}
+                <div *ngFor="let role of roles">
+                  <div *ngIf="role.id == user.role">
+                    Role: {{role.name}}
+                  </div>
+                </div>
+              </option>
+                </select>
+            </div>
+            <button type="button" class="update-button" (click)="selectedValue = '';update(userEmail.value);">
+          Cancel account</button>
+          <button type="button" (click)="goBack()">Return</button>
+        
+  </form>
+    </div>
+    

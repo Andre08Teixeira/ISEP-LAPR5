@@ -1,0 +1,39 @@
+<app-nav-bar></app-nav-bar>
+<div class="row">
+  <div class="column">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img  class=""src="https://static.vecteezy.com/system/resources/previews/000/350/220/non_2x/vector-package-icon.jpg" 
+      alt="Truck" style="width: 550px;height:500.00px;">
+    </div>
+<div class="column">
+    <form class="add-form" class="container">
+      <p></p>
+      <label for="new-hero">Package X: </label>
+      <input id2="new-hero" #packageX placeholder="X"/>
+      <p></p>
+      <label for="new-hero">Package Y: </label>
+      <input id3="new-hero" #packageY placeholder="Y"/>
+      <p></p>
+      <label for="new-hero">Package Z: </label>
+      <input id4="new-hero" #packageZ placeholder="Z"/>
+      <p></p>
+      <label for="new-hero">Package TCarga: </label>
+      <input id5="new-hero" #packageTCarga placeholder="Tempo de carga"/>
+      <p></p>
+      <label for="new-hero">Package TDescarga: </label>
+      <input id6="new-hero" #packageTDescarga placeholder="Tempo de descarga"/>
+      <p></p>
+      </form>
+    
+      <!-- (click) passes input value to add() and then clears the input -->
+      <button type="button" class="add-button" (click)="add(packageX.value,packageY.value,packageZ.value,packageTCarga.value, packageTDescarga.value); 
+      
+       packageX.value='';
+       packageY.value='';
+       packageZ.value='';
+       packageTCarga.value='';
+       packageTDescarga.value=''">
+        Add package
+      </button>
+      <button type="button" (click)="goBack()">Return</button>
+    </div>

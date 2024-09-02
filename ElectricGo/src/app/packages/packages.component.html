@@ -1,0 +1,27 @@
+<app-nav-bar></app-nav-bar>
+<ul class="Packages">
+  <div class="container">
+    <div class ="row">
+      <div class="col-lg-12 text-center">
+
+  <li *ngFor="let package of pageSlice">
+    <div class="package">
+      <p>Package ID: {{package.id}}</p>
+      <p>Posição X: {{package.x}}</p>
+      <p>Posição Y: {{package.y}}</p>
+      <p>Posição Z: {{package.z}}</p>
+      <p>Tempo de carga: {{package.tCarga}}</p>
+      <p>Tempo de descarga: {{package.tDescarga}}</p>
+      <button style="position: absolute;left: 600px;margin-top: -90px;" routerLink="/detail2/{{package.id}}">
+        <span class="badge">
+          Details
+          </span></button>
+   </div>
+    </li>
+    <mat-paginator [length]="this.packages.length" [pageSize]="2" [pageSizeOptions]="[2,4,6,8]" (page)="OnPageChange($event)">
+    </mat-paginator>
+  </div>
+</div>
+</div>
+</ul>
+<button type="button" (click)="goBack()">Return</button>

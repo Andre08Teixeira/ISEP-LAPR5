@@ -1,0 +1,52 @@
+<app-nav-bar></app-nav-bar>
+<div class="row">
+  <div class="column">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img  class=""src="https://img.freepik.com/vetores-premium/ilustracao-em-vetor-de-contorno-desenhado-a-mao-do-correio-dirigindo-caminhao-de-entrega_544745-95.jpg?w=360" 
+      alt="Delivery" style="width: 550px;height:500.00px;">
+    </div>
+
+    
+<div class="column">
+  <form class="add-form" class="container">
+    <label for="new-hero">Create a delivery: </label>
+    <input type="date" #firstDate placeholder="warehouse"/>
+    <p></p>
+
+    <input id5="new-hero" #deliveryWeight placeholder="weight"/>
+    <p></p>
+
+  <!--  <input id6="new-hero" #deliveryWarehouse placeholder="WarehouseID to deliver"/>
+    <p></p> -->
+  
+  
+  
+    <div > 
+      <select class="form-control" #deliveryWarehouse>
+      <option *ngFor="let warehouse of warehouses" value="{{warehouse.id}}" #deliveryWarehouse
+      >{{warehouse.id}}</option>
+    </select>
+    </div>
+  
+
+    <input id7="new-hero" #deliveryPutTruck placeholder="Time to put in truck in minutes"/>
+    <p></p>
+
+    <input id8="new-hero" #deliveryRemTruck placeholder="Time to remove from truck in minutes"/>
+    
+    
+  
+    <!-- (click) passes input value to add() and then clears the input -->
+    <button type="button" class="add-button" (click)="add(firstDate.value,deliveryWeight.value, deliveryWarehouse.value,deliveryPutTruck.value,deliveryRemTruck.value); 
+    
+     
+     deliveryWeight.value='';
+      deliveryWarehouse.value='';
+      deliveryPutTruck.value='';
+      deliveryRemTruck.value=''">
+      Add delivery
+    </button>
+    <button type="button" (click)="goBack()">go back</button>
+  </form>
+  </div>
+</div>

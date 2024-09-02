@@ -1,0 +1,7 @@
+<ul class="Plannings">
+  <li *ngFor="let planning of plannings">
+    <button routerLink="/detail3/{{planning.data}}">
+      <span class="badge">{{planning.data}}</span></button>
+  </li>
+</ul>
+<button type="button" (click)="goBack()">go back</button>

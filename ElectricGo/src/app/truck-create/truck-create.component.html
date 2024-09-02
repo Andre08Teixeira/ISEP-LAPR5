@@ -1,0 +1,45 @@
+<app-nav-bar></app-nav-bar>
+<div class="row">
+  <div class="column">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img  class=""src="https://i.pinimg.com/736x/68/33/3b/68333b0904fc31bf3d54c212e1aa5e2e.jpg" 
+      alt="Truck" style="width: 550px;height:500.00px;">
+    </div>
+<div class="column">
+    <form class="add-form" class="container">
+      <label for="new-hero">Create a truck </label>
+      <p></p>
+      
+      <input id2="new-hero" #truckRegistration placeholder="registration"/>
+      <p></p>
+      
+      <input id3="new-hero" #truckTare placeholder="tare"/>
+      <p></p>
+      
+      <input id4="new-hero" #truckMaxWeight placeholder="Maximum Weight"/>
+      <p></p>
+      
+      <input id5="new-hero" #truckBatteriesMaximumCharge placeholder="Maximum Charge Batteries"/>
+      <p></p>
+      
+      <input id6="new-hero" #truckAutonomy placeholder="Truck Autonomy"/>
+      <p></p>
+      
+      <input id7="new-hero" #truckChargeBatteries placeholder="Time to charge Batteries"/>
+      <p></p>
+      <button type="button" class="add-button" (click)="add(truckRegistration.value,truckTare.value,truckMaxWeight.value,truckBatteriesMaximumCharge.value, truckAutonomy.value,truckChargeBatteries.value); 
+      
+       truckRegistration.value='';
+       truckTare.value='';
+       truckMaxWeight.value='';
+        truckBatteriesMaximumCharge.value='';
+        truckAutonomy.value='';
+        truckChargeBatteries.value=''">
+        Add truck
+      </button>
+      <button type="button" (click)="goBack()">Return</button>
+      </form>
+    
+      <!-- (click) passes input value to add() and then clears the input -->
+      
+    </div>

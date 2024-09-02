@@ -1,0 +1,56 @@
+<h1>List of Trips</h1>
+ <!--...--
+<form  style="position: relative;">
+<h2>Order By:</h2>
+<select (change)="selectedChangeHandler($event)">
+  <option value = "--">--</option>
+  <option value = "date asc">Date asc</option>
+  <option value = "date dsc">Date dsc</option>
+  <option value = "destino asc">Destino asc</option>
+  <option value = "destino dsc">Destino dsc</option>
+</select>
+</form>
+<form  style="position: relative;;left: 300px;top: -84px;">
+<h2>Filter: </h2>
+<select (change)="selectedChangeHandler2($event)">
+  <option value = "--">--</option>
+  <option value = "date">Date</option>
+  <option value = "destino">Destino</option>
+</select>
+</form>
+
+<div class="destino" *ngIf="filtro==='destino'" style="position: relative;;left: 550px;top: -150px;">
+  <input id="new-hero" #destino placeholder="destino"/>
+  <button type="button" (click)="filtrarPorDestino(destino.value);">Apply filter</button>
+</div>
+
+
+<div class="destino" *ngIf="filtro==='date'"style="position: relative;;left: 550px;top: -150px;height: 50px;">
+  <input type="date" #firstDate placeholder="destino"/>
+  <input type="date" #secondDate placeholder="destino2"/>
+  <button type="button" (click)="filtrarPorData(firstDate.value,secondDate.value);"style="position: relative;;left: 550px;top: -150px;height: 40px;">Apply filter</button>
+</div>
+...-->
+
+<!--...--
+<ul class="Trips" *ngIf="currentlist.length!=0;else elseBlock"style="position: relative; top:-80px">
+  <li *ngFor="let destiny of currentlist">
+    <div class="destino"> 
+    <p>Delivery ID: {{delivery.id}}</p>
+    <h3>Delivery date: {{delivery.dia}}/{{delivery.mes}}/{{delivery.ano}}</h3> 
+    <p>Warehouse to deliver: {{delivery.deliverywarehouseID}}</p>
+    <p>Longitude: {{delivery.weight}}</p>
+    <p>Latitude: {{delivery.put_truck_time}}</p>
+    <p>Altitude: {{delivery.remove_Truck_time}}</p>
+    <button style="position: absolute;left: 650px;margin-top: -90px;" routerLink="/detail/{{delivery.id}}">
+      <span class="badge">
+        Edit details
+        </span></button>
+ </div>
+  </li>
+</ul>
+<ng-template #elseBlock>
+  <h2>There are no destiny for that. Check if you wrote it correctly.</h2>
+</ng-template>
+<button type="button" (click)="goBack()">go back</button>
+...-->

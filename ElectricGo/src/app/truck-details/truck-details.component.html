@@ -1,0 +1,18 @@
+<div *ngIf="truck">
+    <h2>Details of the truck</h2>
+    <div>Truck Registration: {{truck.registration}}</div>
+    <div>
+      <label for="hero-weight">Truck Tare: </label>
+      <input id="hero-weight" [(ngModel)]="truck.tare" placeholder="tare">
+      <label for="hero-weight">Truck Maximum Weight: </label>
+      <input id="hero-weight" [(ngModel)]="truck.maximum_weight" placeholder="maximum_weight">
+      <label for="hero-weight">Truck Batteries Maximum Charge: </label>
+      <input id="hero-weight" [(ngModel)]="truck.max_charge" placeholder="max_charge">
+      <p></p>
+      <label for="hero-weight">Truck Autonomy: </label>
+      <input id="hero-weight" [(ngModel)]="truck.autonomy" placeholder="autonomy">
+      <label for="hero-weight">Truck Batteries Charge Time: </label>
+      <input id="hero-weight" [(ngModel)]="truck.charge_time" placeholder="charge_time">
+    </div>
+  </div>
+  <button type="button" (click)="goBack()">Return</button>

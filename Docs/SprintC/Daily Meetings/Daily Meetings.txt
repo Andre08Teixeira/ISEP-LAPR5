@@ -1,0 +1,218 @@
+Lapr5 grupo 41 turma 3DG
+Daily Meetings - Sprint C
+
+Daily Meeting #1
+
+Data:
+06/12/2022
+
+Membros presentes:
+Mário,Miguel,João
+
+Resumo:
+Sprint Review
+Planeamento para o sprint
+Resolução de erros do sprint B
+
+---------------------------------------------------
+Daily Meeting #2
+
+Data:
+11/12/2022
+
+Membros presentes:
+Todos
+
+Resumo:
+melhoria dos designs e correção de erros do sprint passado
+
+---------------------------------------------------
+Daily Meeting #3
+
+Data:
+14/12/2022
+
+Membros presentes:
+Todos
+
+Resumo:
+Correção de erros do sprint passado e criação de testes E2E, Ivo, André
+
+---------------------------------------------------
+Daily Meeting #4
+
+Data:
+20/12/2022
+
+Membros presentes:
+Miguel, Mário, João, Ivo, André
+
+Resumo:
+Melhoria dos algoritmos e relatório de ALGAV
+
+---------------------------------------------------
+Daily Meeting #5
+
+Data:
+23/12/2022
+
+Membros presentes:
+Miguel, Mário
+
+Resumo:
+Filtração e edição de entregas
+ ---------------------------------------------------
+Daily Meeting #5
+
+Data:
+26/12/2022
+
+Membros presentes:
+Mário, João, Miguel
+
+Resumo:
+tentativa de implementar Inibição do camião , SSO e da UI de utilizadores
+
+---------------------------------------------------
+Daily Meeting #6
+
+Data:
+27/12/2022
+
+Membros presentes:
+Mário, Miguel
+
+Resumo:
+Conclusão da Inibição do camião, alteração na listagem dos mesmos, e finalização da criação de user com os respetivos roles
+
+---------------------------------------------------
+Daily Meeting #7
+
+Data:
+28/12/2022
+
+Membros presentes:
+Mário, Miguel
+
+Resumo:
+Criação de user com os respetivos roles e movimento interativo do camião
+
+
+---------------------------------------------------
+
+Daily Meeting #8
+
+Data:
+29/12/2022
+
+Membros presentes:
+Mário, Miguel, João
+
+Resumo:
+Movimento interativo do camião e inicio do movimento automático e SSO
+
+
+---------------------------------------------------
+
+Daily Meeting #9
+
+Data:
+30/12/2022
+
+Membros presentes:
+Mário, Miguel
+
+Resumo:
+Continuação do desenvolvimento dos tópicos da reunião anterior
+
+
+---------------------------------------------------
+
+Daily Meeting #10
+
+Data:
+2/01/2023
+
+Membros presentes:
+Mário, Miguel
+
+Resumo:
+Continuação do desenvolvimento dos tópicos da reunião anterior
+
+---------------------------------------------------
+
+Daily Meeting #11
+
+Data:
+3/01/2023
+
+Membros presentes:
+Mário, Miguel, João
+
+Resumo:
+Continuação do desenvolvimento dos tópicos da reunião anterior e início da implementação do servidor de ALGAV
+
+---------------------------------------------------
+
+Daily Meeting #12
+
+Data:
+4/01/2023
+
+Membros presentes:
+Mário, Miguel, João, Ivo, André
+
+Resumo:
+Servidor de ALGAV e correção de erros do sprint anterior
+
+---------------------------------------------------
+
+Daily Meeting #13
+
+Data:
+5/01/2023
+
+Membros presentes:
+Mário, Miguel, João
+
+Resumo:
+Servidor de ALGAV e correção de erros e fim da implementação do movimento interativo do camião
+
+---------------------------------------------------
+
+Daily Meeting #14
+
+Data:
+6/01/2023
+
+Membros presentes:
+Mário, Miguel, João
+
+Resumo:
+Servidor de ALGAV e algoritmo genético e movimento automático do camião
+
+---------------------------------------------------
+
+Daily Meeting #14
+
+Data:
+7/01/2023
+
+Membros presentes:
+Mário, Miguel, João, Ivo, André
+
+Resumo:
+coninuação dos tópicos da reunião anterior e testes unitários e E2E
+
+---------------------------------------------------
+
+Daily Meeting #14
+
+Data:
+8/01/2023
+
+Membros presentes:
+Mário, Miguel, João, Ivo, André
+
+Resumo:
+Relatórios, ASIST e aperfeiçoamento das user stories

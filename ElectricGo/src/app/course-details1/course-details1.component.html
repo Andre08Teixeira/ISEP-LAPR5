@@ -1,0 +1,22 @@
+<app-nav-bar></app-nav-bar>
+<div *ngIf="course">
+  <h2>Details of Course</h2>
+  <div>Course id: {{course.id}}</div>
+  <div>
+    <label for="hero-weight">Warehouse 1 id: </label>
+    <input id="hero-weight" [(ngModel)]="course.warehouseID1" placeholder="warehouse1Id">
+    <p></p>
+    <label for="hero-weight">Warehouse 2 id: </label>
+    <input id="hero-weight" [(ngModel)]="course.warehouseID2" placeholder="warehouse2Id">
+    <p></p>
+    <label for="hero-weight">distance: </label>
+    <input id="hero-weight" [(ngModel)]="course.distance" placeholder="distance">
+    <p></p>
+    <label for="hero-weight">duration: </label>
+    <input id="hero-weight" [(ngModel)]="course.duration" placeholder="duration">
+    <p></p>
+    <label for="hero-weight">energyNeeded: </label>
+    <input id="hero-weight" [(ngModel)]="course.energyNeeded" placeholder="energyNeeded">
+  </div>
+</div>
+<button type="button" (click)="goBack()">go back</button>

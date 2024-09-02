@@ -1,0 +1,67 @@
+<app-nav-bar></app-nav-bar>
+<h1>List Deliveries</h1>
+
+ 
+<form  style="position: relative;">
+<h2>Order By:</h2>
+<select (change)="selectedChangeHandler($event)">
+  <option value = "--">--</option>
+  <option value = "date asc">Date asc</option>
+  <option value = "date dsc">Date dsc</option>
+  <option value = "warehouse asc">By Warehouse asc</option>
+  <option value = "warehouse dsc">By Warehouse dsc</option>
+  <option value= "mass asc">By Mass asc</option>
+  <option value= "mass dsc">By Mass dsc</option>
+</select>
+</form>
+<form  style="position: relative;left: 300px;top: -93px;">
+<h2>Filter: </h2>
+<select (change)="selectedChangeHandler2($event)">
+  <option value = "--">--</option>
+  <option value = "date">Date</option>
+  <option value = "warehouse">By Warehouse</option>
+  <option value = "ambos">By Warehouse and date</option>
+</select>
+</form>
+
+
+<div class="warehouse" *ngIf="filtro==='warehouse'" style="position: relative;left: 650px;top: -150px; width: 500px;height: 140px;">
+  <input id="new-hero" #warehouse placeholder="warehouse ID"/>
+  <button type="button" style="position: relative;bottom: 15px;" (click)="filtrarPorArmazem(warehouse.value);">Apply filter</button>
+</div>
+
+
+<div class="warehouse" *ngIf="filtro==='date'"style="position: relative;;left: 650px;top: -150px;height: 125px; width: 375px;">
+  <input type="date" #firstDate placeholder="warehouse"/>
+  <input type="date" #secondDate placeholder="warehouse2"/>
+  <button type="button" (click)="filtrarPorData(firstDate.value,secondDate.value);"style="position: relative;left: 370px;top: -90px;height: 50px;">Apply filter</button>
+</div>
+
+<div class="warehouse" *ngIf="filtro==='ambos'"style="position: relative;;left: 650px;top: -150px;height: 160px; width: 375px;">
+  <input id="new-hero" #warehouse placeholder="warehouse ID"/>
+  <input type="date" #firstDate placeholder="warehouse"/>
+  <input type="date" #secondDate placeholder="warehouse2"/>
+  <button type="button" (click)="filtrarPorAmbos(warehouse.value, firstDate.value,secondDate.value);"style="position: relative;left: 370px;top: -120px;height: 50px;">Apply filter</button>
+</div>
+
+
+<ul class="Deliveries" *ngIf="currentlist.length!=0;else elseBlock"style="position: relative; top:-80px">
+  <li *ngFor="let delivery of currentlist">
+    <div class="warehouse"> 
+    <p><strong>Delivery ID:</strong> {{delivery.id}}</p>
+    <p><strong>Delivery date:</strong> {{delivery.dia}}/{{delivery.mes}}/{{delivery.ano}}</p> 
+    <p><strong>Warehouse to deliver:</strong> {{delivery.deliverywarehouseID}}</p>
+    <p><strong>weight:</strong> {{delivery.weight}}</p>
+    <p><strong>Time to put in truck:</strong> {{delivery.put_truck_time}}</p>
+    <p><strong>Time to remove from truck:</strong> {{delivery.remove_Truck_time}}</p>
+    <button style="position: absolute;left: 600px;margin-top: -150px;" routerLink="/detail/{{delivery.id}}">
+      <span class="badge">
+        Edit details
+        </span></button>
+ </div>
+  </li>
+</ul>
+<ng-template #elseBlock>
+  <h2>There are no deliveries for those filters. Check if you chose it correctly.</h2>
+</ng-template>
+<button type="button" (click)="goBack()">go back</button>

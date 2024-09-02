@@ -1,0 +1,15 @@
+<form [formGroup]= "signInForm" >
+    <label for="email">Email</label>
+    <input type="email" id="email" formControlName="email">
+    <label for="password">Password</label>
+    <div>
+    <input type="password" id="password" formControlName="password">
+    <input type="checkbox" (click)="myFunction()"> Show Password
+  </div>
+    <button type="submit" (click)="login()"> 
+      Login
+    </button>
+    <button type="submit" (click)="signInWithFB()">Facebook Login</button>
+  </form>
+  
+  <div *ngIf="error">{{ error }}</div>
